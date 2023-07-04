@@ -1,9 +1,7 @@
-<h1 align="center">Hello 👋, I'm Liyan Asia</h1>
-<h3 align="center">Computer Engineer :) </h3>
+<h1 align="center">Hi 👋, I'm Liyan Asia</h1>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liyanasia&label=Profile%20views&color=0e75b6&style=flat" alt="liyanasia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liyanasia" alt="liyanasia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyanasia&show_icons=true&locale=en&layout=compact" alt="liyanasia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liyanasia&show_icons=true&locale=en" alt="liyanasia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liyanasia&" alt="liyanasia" /></p>
