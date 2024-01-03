@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **React project**
 
 - 🌱 I’m currently learning **React Native**
+- - 🌱 I’m currently learning **Fluttere**
 
 - 📫 How to reach me **Layanasia1@hotmail.com**
 
